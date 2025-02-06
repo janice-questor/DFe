@@ -9,6 +9,7 @@ using Unimake.Business.DFe.Servicos;
 using System.Collections.Generic;
 using System.Globalization;
 using Unimake.Business.DFe.Utility;
+using SystemUnimake;
 
 
 namespace Unimake.Business.DFe.Xml.ESocial

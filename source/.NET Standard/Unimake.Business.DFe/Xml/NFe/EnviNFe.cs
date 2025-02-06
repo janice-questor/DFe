@@ -17,6 +17,7 @@ using System.Xml;
 using System.Xml.Serialization;
 using Unimake.Business.DFe.Servicos;
 using Unimake.Business.DFe.Utility;
+using SystemUnimake;
 
 namespace Unimake.Business.DFe.Xml.NFe
 {

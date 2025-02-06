@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Xml;
 using System.Xml.Linq;
+using SystemUnimake;
 using Unimake.Business.DFe.Validator.Contract;
 using Unimake.Exceptions;
 

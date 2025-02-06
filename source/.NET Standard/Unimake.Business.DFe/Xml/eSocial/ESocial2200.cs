@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Runtime.InteropServices;
 using System.Xml.Serialization;
+using SystemUnimake;
 using Unimake.Business.DFe.Servicos;
 using Unimake.Business.DFe.Utility;
 
